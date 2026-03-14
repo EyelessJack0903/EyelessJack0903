@@ -1,16 +1,6 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=LE%20TRONG%20NAM&fontSize=70&animation=fadeIn" />
-</p>
-
 ## Hi there 👋 I'm Nam (EyelessJack0903)
 
 I am a student at **Vietnam Aviation Academy**, passionate about game programming and development. 🚀
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=EyelessJack0903&theme=tokyonight&column=7" alt="Trophies" />
-  </a>
-</p>
 
 ### 🔭 About Me
 - 🕹️ **Current Focus:** Studying Game Programming & Unity.
