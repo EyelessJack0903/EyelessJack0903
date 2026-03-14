@@ -18,7 +18,6 @@ I am a student at **Vietnam Aviation Academy**, passionate about game programmin
 | 💼 **Upwork** | [Hire me on Upwork](https://www.upwork.com/freelancers/~01f9e6fa606ba55a06?mp_source=share) |
 ---
 
-### 🛠️ Tech Stack
 ### 🛠️ Tech Stack & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">  
