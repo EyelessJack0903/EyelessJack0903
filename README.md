@@ -1,6 +1,16 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=LE%20TRONG%20NAM&fontSize=70&animation=fadeIn" />
+</p>
+
 ## Hi there 👋 I'm Nam (EyelessJack0903)
 
 I am a student at **Vietnam Aviation Academy**, passionate about game programming and development. 🚀
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=EyelessJack0903&theme=tokyonight&column=7" alt="Trophies" />
+  </a>
+</p>
 
 ### 🔭 About Me
 - 🕹️ **Current Focus:** Studying Game Programming & Unity.
@@ -9,7 +19,6 @@ I am a student at **Vietnam Aviation Academy**, passionate about game programmin
 - 🤔 **Goal:** Seeking guidance on optimal game architecture.
 
 ---
-
 ### 🔗 Connect & Work with me
 
 | Platform | Link |
@@ -22,11 +31,26 @@ I am a student at **Vietnam Aviation Academy**, passionate about game programmin
 ---
 
 ### 🛠️ Tech Stack
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+### 🛠️ Tech Stack & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">  
+  <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity">
+  
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio">
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</p>
 
 ---
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=EyelessJack0903&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EyelessJack0903&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=EyelessJack0903&color=blueviolet" alt="Views" />
 </p>
