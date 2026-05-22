@@ -14,7 +14,7 @@ I am a student at **Vietnam Aviation Academy**, passionate about game programmin
 | Platform | Link |
 | :--- | :--- |
 | 📑 **Portfolio** | [View Notion](https://www.notion.so/L-Tr-ng-Nam-Portfolio-31eee9b2fe2480d89cd0c1457a36d194?source=copy_link) |
-| 📄 **Curriculum Vitae** | [View CV](https://drive.google.com/file/d/1F9cWXQeJ-G92dpWAL0D_h_BAtFgcS6Im/view?usp=sharing) |
+| 📄 **Curriculum Vitae** | [View CV](https://drive.google.com/file/d/18iQdPNy-eAEuNTitpi4d9NjJpwobWQoc/view?usp=sharing) |
 | 💼 **Upwork** | [Hire me on Upwork](https://www.upwork.com/freelancers/~01f9e6fa606ba55a06?mp_source=share) |
 ---
 
